@@ -1,2 +1,2 @@
-# CodeAlpha-Cyber-Security
-Tasks of CodeAlpha Internship
+# Code Alpha Cyber Security
+Tasks of Code Alpha
